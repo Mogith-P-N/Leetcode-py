@@ -1,3 +1,3 @@
 # Leetcode-py
-Consists the solutions of leetcode problems that I have solved.
+Consists the solutions and explanationf for the leetcode problems that I have solved.
 
